@@ -62,6 +62,3 @@ python -m ipykernel install --user --name=credito-ml --display-name "Python (cre
 jupyter notebook
 ```
 
-## Autor
-
-Proyecto desarrollado por Ale como ejercicio de aprendizaje de Machine Learning aplicado a riesgo crediticio.
